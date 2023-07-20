@@ -17,7 +17,11 @@ import userinterface.storeAdmin.StoreWorkAreaJPanel;
 
 /**
  *
- * @author Neha Ghate
+ * 10909109
+ * 10922512
+ * 10923170
+ * 10867053
+ * 10909221
  */
 public class MainJFrame extends javax.swing.JFrame {
 
